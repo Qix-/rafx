@@ -27,7 +27,7 @@ profiling = "1.0.1"
 # Used for debug-only tracking of resources
 backtrace = { version = "0.3", optional = true }
 
-raw-window-handle = "0.3"
+raw-window-handle = "0.5.2"
 
 # vulkan
 ash = { version = "0.32", optional = true }
